@@ -4,4 +4,4 @@ This is my first ever coding project so I am fairly new to
 C++ and using GitHub on my own but I am sure that will change 
 in the near future. This is a partially fleshed out version
 or rather attempt at coding Poker. There is no full gameplay as of 
-now but what my code CAN do is deal cards and determine hands.
+now but what my code can do is deal cards and determine hands.
